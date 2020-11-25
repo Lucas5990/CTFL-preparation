@@ -37,8 +37,22 @@ O dev incremental envolve o estabelecimento de requisitos, a modelagem, a constr
 
 ### 2.1.2 (K1) - Identificar os motivos pelos quais os modelos de ciclo de vida de desenvolvimento de software devem ser adaptados ao contexto das características do projeto e do produto
 
+Modelos de ciclo de vida de desenvolvimento de software em contexto
+
 ## 2.2 - Níveis de teste
+
+### 2.2.1 (K2) - Comparar os diferentes níveis de teste na perspectiva de seus objetivos, na base de teste, nos artefatos de teste, nas falhas e defeitos típicos e nas abordagens e responsabilidades
 
 ## 2.3 - Tipos de teste
 
-## 2.4 Teste de manutenção
+### 2.3.1 (K2) - Comparar os testes funcionais dos não-funcionais e caixa-branca
+
+### 2.3.2 (K1) - Reconhecer que os testes funcionais, não funcionais e caixa-branca ocorrem em qualquer nível de teste
+
+### 2.3.3 (K2) - Comparar as finalidades do teste de confirmação e teste de regressão
+
+## 2.4 - Teste de manutenção
+
+### 2.4.1 (K2) - Resumir os gatilhos para o teste de manutenção
+
+### 2.4.2 (K2) - Descrever o papel da análise de impacto no teste manutenção
